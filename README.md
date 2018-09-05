@@ -1,1 +1,1 @@
-# opengl_es_rust
+# OpenGL ES Rust Binding
